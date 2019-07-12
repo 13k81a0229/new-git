@@ -6,5 +6,9 @@ I conform to following this version
 please exloure the application future references
 when even u are facing any problem please give feedback
 
+Adding  two more feature to the cuurent version 
+face detecting
+battery optimization
+
 
 Thank you 
